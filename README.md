@@ -123,7 +123,7 @@ http://localhost:8081
 No terminal dentro do VScode, foi utilizado o seguinte comando
 
 ```
-uvicorn worktout_api.main:app --reload
+uvicorn tdd_project.main:app --reload
 ```
 
 Para testar no navegador:
@@ -274,6 +274,8 @@ https://github.com/digitalinnovationone/store_api/
 
 os testes dos models são chamados de unitários
 Os testes de controllers são chamados de testes de integração!
+
+![API](store_api.jpg)
 
 ## Desafio Final
 
